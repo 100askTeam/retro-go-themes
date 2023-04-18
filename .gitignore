@@ -1,2 +1,6 @@
 .DS_Store/
 assets/
+.vscode/
+*.old
+/*.zip
+__pycache__/
