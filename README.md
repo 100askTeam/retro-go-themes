@@ -1,9 +1,9 @@
 # Retro Go Themes
-> Themes for [Ducalex Retro Go](https://github.com/ducalex/retro-go)
+> Themes for [Ducalex Retro Go](https://github.com/ducalex/retro-go) and [100ASK Retro Go Yao-Mio](https://github.com/100askTeam/retro-go-yao-mio)
 
 ## Overview
 
-This is a collection of Themes you can install for your Odroid Go that is runnning [Ducalex Retro Go](https://github.com/ducalex/retro-go) emulation.
+This is a collection of Themes you can install for your Odroid Go that is runnning [Ducalex Retro Go](https://github.com/ducalex/retro-go) and [100ASK Retro Go Yao-Mio](https://github.com/100askTeam/retro-go-yao-mio) emulation.
 
 ## Installation
 > Clone, Mount, Copy, Paste
@@ -32,21 +32,6 @@ This is a collection of Themes you can install for your Odroid Go that is runnni
 
 
 
------
+## Forum
 
-
-
-## Support
-
-> Although we do this for 💕 of 🕹️<br/>
-> **We Also Like Coffee!** <br/>
-> *Please Consider Supporting* <br/>
-
-Did you know, you can support us in a few way? We offer multiple sponsorship tiers, with different rewards!
-
-Take a *look*.
-See what *fits*.
-
- [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/32teeth)
-
-**Thank You**
+[https://forums.100ask.net][https://forums.100ask.net]
