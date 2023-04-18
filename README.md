@@ -34,4 +34,4 @@ This is a collection of Themes you can install for your Odroid Go that is runnni
 
 ## Forum
 
-[https://forums.100ask.net][https://forums.100ask.net]
+[https://forums.100ask.net](https://forums.100ask.net)
